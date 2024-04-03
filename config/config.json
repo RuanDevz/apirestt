@@ -1,0 +1,25 @@
+
+{
+  "development": {
+    "username": "postgres",
+    "password": "Ruan1120#@",
+    "database": "pizzaria",
+    "host": "localhost",
+    "port": 5432,
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "pizzaria_owner",
+    "password": "PQ3LBoAN6nVD",
+    "database": "pizzaria",
+    "host": "ep-restless-boat-a546pujc.us-east-2.aws.neon.tech",
+    "dialect": "postgres"
+  }
+}
